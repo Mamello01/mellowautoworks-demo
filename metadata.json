@@ -1,0 +1,8 @@
+{
+  "name": "Mellow AutoWorks",
+  "description": "Trusted local automotive workshop serving South African drivers with affordable and reliable repairs, maintenance, and diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
